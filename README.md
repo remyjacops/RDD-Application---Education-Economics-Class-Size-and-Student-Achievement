@@ -1,2 +1,14 @@
-# RDD-Application---Education-Economics-Class-Size-and-Student-Achievement
-Investigate the effects of class size on student achievement. 
+# RDD Application - Education Economics: Class-Size and Student-Achievement
+
+Remy Jacops
+ECON 470
+
+**Desription:**
+
+
+**Project Ogranization:**
+
+**Comments:**
+
+**Sources:**
+
